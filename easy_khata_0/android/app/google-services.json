@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137630887931",
+    "project_id": "easykhata-5bf97",
+    "storage_bucket": "easykhata-5bf97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137630887931:android:0ec560ac2766a55186a55e",
+        "android_client_info": {
+          "package_name": "com.example.easy_khata_0"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgknTe6MgiJP_qNMgKuNbQASlcR5P6KaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
